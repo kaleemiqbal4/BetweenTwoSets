@@ -1,0 +1,15 @@
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\bin\Debug\net8.0\BetweenTwoSets.exe
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\bin\Debug\net8.0\BetweenTwoSets.deps.json
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\bin\Debug\net8.0\BetweenTwoSets.runtimeconfig.json
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\bin\Debug\net8.0\BetweenTwoSets.dll
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\bin\Debug\net8.0\BetweenTwoSets.pdb
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.AssemblyInfo.cs
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.sourcelink.json
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.dll
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\refint\BetweenTwoSets.dll
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.pdb
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\BetweenTwoSets.genruntimeconfig.cache
+D:\KALEEM\pocies\BetweenTwoSets\BetweenTwoSets\BetweenTwoSets\obj\Debug\net8.0\ref\BetweenTwoSets.dll
